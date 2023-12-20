@@ -5,7 +5,7 @@ author: AnalogMan
 categories: [ Gigs ]
 image: assets/images/youth-sector.png
 ---
-David Byrne's bastard children venture east for one of their biggest support slots to-date. Let's hope there is free parking.
+David Byrne's bastard children venture east for one of their biggest support slots to-date. Let's hope there's _free parking_.
 
 _Image courtesy of [Stabal Sessions](1)._
 
