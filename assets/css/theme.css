@@ -7,11 +7,11 @@ body {
 	padding-top:69.75px;
 }
 .site-content {
-	margin-top:1em;
+	margin-top:6em;
 	min-height:400px;
 }
 .remove-site-content-margin {
-	margin-top:-30px;
+	margin-top:-6em;
 }
 img {
 	max-width:100%;
