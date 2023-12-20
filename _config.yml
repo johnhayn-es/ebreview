@@ -1,7 +1,7 @@
 # Site
-name: 'EMR'
+name: 'Eastbourne Music Review'
 description: 'Local talent, venues and audiences'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 email: 'contact@eastbournemusicreview.com'
