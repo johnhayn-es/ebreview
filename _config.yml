@@ -19,7 +19,7 @@ plugins:
   
 authors:
     sal:
-      name:           "Analog Man"
+      name:           Analog Man
       # site:           
       avatar:         /assets/images/avatar1.jpg
       bio:            "A pedal-powered luddite that's more into tubes than profilers."
