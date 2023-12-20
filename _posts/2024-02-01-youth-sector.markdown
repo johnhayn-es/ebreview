@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Youth Sector @ The Congress"
+author: AnalogMan
 categories: [ Gigs ]
 image: assets/images/youth-sector.png
 ---

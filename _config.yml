@@ -5,7 +5,7 @@ logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 email: 'contact@eastbournemusicreview.com'
-mailchimp-list: ''
+# mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,7 +19,7 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           "Analog Man"
       # site:           
       avatar:         /assets/images/avatar1.jpg
       bio:            "Writer"
@@ -27,7 +27,7 @@ authors:
       # twitter:        https://twitter.com/wowthemesnet
 
     jane:
-      name:           Wally's ghost
+      name:           "Wally's ghost"
       avatar:         /assets/images/avatar2.jpg
       bio:            "Writer"
       # email:          fakemail@gmail.com
