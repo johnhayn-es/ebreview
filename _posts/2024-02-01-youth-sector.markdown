@@ -13,7 +13,7 @@ Just five ~~miles!~~ minutes after their sell-out UK tour, Youth Sector make a r
 
 For the uninitiated, this wild and wide-eyed Brighton five piece boast one of the best and most-original back catalogues in recent memory - boasting numerous learn-every-word songs that we can't stop singing (at strangers at the gym). 
 
-A lazy review might mention a passing resemblance to the Talking Heads or Devo, but they are more than a pastiche of your friend from art school's favourite 80s bands. 
+Yes. There is a passing resemblance to the Talking Heads or Devo, but they are more than a pastiche of your friend from art school's favourite 80s bands. 
 
 Quarrels, their latest release, feels like the album they've been building up to since they formed more than 5 years ago. "The Ball" and "Definitive guide to easy living" are the stand-out big hitters, but (honestly) it's hard to pick favourites as the whole album feels like a can of perfectly-engineered ear worms. For the more familiar, songs like "Free Parking" feel more reminiscent of the group's adloescent era. 
 
